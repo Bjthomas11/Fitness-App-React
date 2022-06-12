@@ -1,2 +1,1 @@
-# Exercise App - React Version
-# Fitness-App-React
+# Fitness-App-React Version
